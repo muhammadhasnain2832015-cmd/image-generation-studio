@@ -1,0 +1,11 @@
+# Secrets (kabhi GitHub par nahi jani chahiye)
+.streamlit/secrets.toml
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated images
+generated_images/
